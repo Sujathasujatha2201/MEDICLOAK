@@ -1,5 +1,0 @@
-streamlit
-pytesseract
-Pillow
-PyMuPDF
-pdfplumber

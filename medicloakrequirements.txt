@@ -1,6 +1,0 @@
-streamlit
-pytesseract
-Pillow
-pdfplumber
-PyMuPDF
-regex

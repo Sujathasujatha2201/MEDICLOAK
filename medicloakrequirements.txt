@@ -1,0 +1,11 @@
+streamlit
+easyocr
+pillow
+pdf2image
+pymupdf
+spacy
+torch
+torchvision
+torchaudio
+
+

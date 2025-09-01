@@ -1,5 +1,0 @@
-streamlit
-pdfplumber
-pillowstreamlit
-pdfplumber
-pillowv

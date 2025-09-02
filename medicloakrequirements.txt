@@ -1,9 +1,0 @@
-streamlit
-easyocr
-torch
-torchvision
-torchaudio
-pillow
-pdf2image
-pymupdf
-reportlab
